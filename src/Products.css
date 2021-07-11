@@ -1,0 +1,25 @@
+.product {
+  background-color: #2e3f5c;
+  border-radius: 3px;
+  box-shadow: 0 -3px 5px rgba(0, 0, 0, 0.1);
+  position: relative;
+  margin: 1rem;
+  width: 250px;
+}
+
+.product img {
+  max-width: 100%;
+  object-fit: cover;
+  height: 400px;
+}
+
+.product-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.product-info h3 {
+  margin: 0;
+}

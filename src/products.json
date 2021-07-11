@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Hello World",
+    "imageUrl": "https://images.wunderstock.com/Water_LikZBP4Pwp4J_800.jpeg",
+    "slug": "hello-world",
+    "price": "4000"
+  }
+]
