@@ -1,66 +1,66 @@
 [
   {
     "id": 1,
-    "title": "Hello World",
+    "title": "Seven Rocks",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kplisnk0/t-shirt/a/k/k/m-prss21pn009a-provogue-original-imag3stusnehy5by.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 474
   },
   {
     "id": 2,
-    "title": "Hello World",
+    "title": "TRIPR",
     "imageUrl": "",
     "slug": "hello-world",
-    "price": 4000
+    "price": 266
   },
   {
     "id": 3,
-    "title": "Hello World",
+    "title": "THE EG STORE",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kqttg280/t-shirt/2/h/x/m-mss21cn019a-metronaut-original-imag4rczy34xrgxx.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 284
   },
   {
     "id": 4,
-    "title": "Hello World",
+    "title": "FastColors",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/khmbafk0-0/t-shirt/w/j/s/xs-t322-blwh-seven-rocks-original-imafxhagtyj2xvpn.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 584
   },
   {
     "id": 5,
-    "title": "Hello World",
+    "title": "SCOTT INTERNATIONAL",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/klqx30w0/shirt/y/0/3/46-assfqmofl54391-allen-solly-original-imagyt3y7yfvdkpk.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 521
   },
   {
     "id": 6,
-    "title": "Hello World",
+    "title": "Eyebogler",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kjhgzgw0-0/t-shirt/v/b/j/xl-t285hs-as7whblon-seven-rocks-original-imafzfkxpwghqu8j.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 331
   },
   {
     "id": 7,
-    "title": "Hello World",
+    "title": "Tricky Wear",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kjkbv680-0/t-shirt/9/v/o/m-t285hs-as7whdngr-seven-rocks-original-imafz3wkfs8pevqc.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 284
   },
   {
     "id": 8,
-    "title": "Hello World",
+    "title": "HELMONT",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kpinwy80/t-shirt/a/o/i/m-prss21pn019b-provogue-original-imag3qkvcab4fbbx.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 484
   },
   {
     "id": 9,
-    "title": "Hello World",
+    "title": "MANIAC",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kl6wx3k0/t-shirt/y/n/i/s-bbt-try-this-original-imagydarhsryeahn.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 571
   },
   {
     "id": 10,
@@ -78,23 +78,23 @@
   },
   {
     "id": 12,
-    "title": "Hello World",
+    "title": "Smartees",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kpedle80/shirt/a/g/2/m-ntshw03333f1ml-nautica-original-imag3ngpwh5nk2he.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 664
   },
   {
     "id": 13,
-    "title": "Hello World",
+    "title": "GIN",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kqttg280/t-shirt/6/3/n/m-meppcn007b-metronaut-original-imag4rcnhqez8fwr.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 411
   },
   {
     "id": 14,
-    "title": "Hello World",
+    "title": "Old Monk",
     "imageUrl": "https://rukminim1.flixcart.com/image/495/594/kfk0e4w0-0/t-shirt/c/l/0/xxl-tblwtylrn-d27-tripr-original-imafvzjm8gs3kyga.jpeg?q=50",
     "slug": "hello-world",
-    "price": 4000
+    "price": 521
   }
 ]
