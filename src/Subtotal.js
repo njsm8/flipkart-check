@@ -8,11 +8,11 @@ function Subtotal() {
     const [{basket}] = useStateValue();
     return (
         <div className="subtotal"> 
-            <h1>This is Sub</h1>
+            <h1>Subtotal</h1>
             <CurrencyFormat renderText={(value) => (
                 <>
                 <p>
-                    Subtotal ({basket.length} items): <strong>{value}</strong>
+                    Total ({basket.length} items): <strong>{value}</strong>
                 </p>
                  </>
             )} 

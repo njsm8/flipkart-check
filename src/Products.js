@@ -25,7 +25,7 @@ const Products = ({id,title, price, imageUrl, slug}) => {
 
         <div className="product-info">
             <h3>{title}</h3>
-            <span className="price">{price}</span>
+            <span className="price">₹{price}</span>
         </div>
         <button onClick={addToBasket} className="product-button">Add to Cart</button>
     </div>
